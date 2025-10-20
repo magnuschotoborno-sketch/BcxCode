@@ -9,7 +9,7 @@ body{
     font-size: 4.14em;
 }
 button{
-    font-size: 0.67em;
+    font-size: 0.98em;
     background-color: rgb(206, 106, 13);
     padding: 10px, 24.23px;
 }
@@ -17,3 +17,4 @@ button:hover{
     background-color: rgb(202, 174, 48);
 
 }
+
